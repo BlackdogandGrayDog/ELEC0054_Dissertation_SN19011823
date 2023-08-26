@@ -1,0 +1,22 @@
+name: dissertation-final
+
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - numpy
+    - scikit-learn
+    - tensorflow
+    - keras
+    - pillow
+    - matplotlib
+    - scikit-image
+    - opencv-python
+    - tabulate
+    - imageio
+    - scipy
+    - glymur
+    - plotly
+    - seaborn
+    - spyder-kernels
+
