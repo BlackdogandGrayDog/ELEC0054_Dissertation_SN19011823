@@ -1,4 +1,4 @@
-# Dissertation: Robustness Analysis of Neural Networks under Noisy and Compressed Conditions
+# An Empirical Study into Neural Network Robustness: Performance Analysis Under Noisy and Compressed Image Conditions
 
 This repository contains the code and datasets for a comprehensive investigation into the effects of real-world conditions on the performance of neural networks, focusing on noise and compression artefacts.
 
